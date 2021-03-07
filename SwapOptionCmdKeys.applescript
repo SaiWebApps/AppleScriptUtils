@@ -1,5 +1,5 @@
 tell application "Finder"
-	set currentDir to (container of (path to me)) as string
+    set currentDir to (container of (path to me)) as string
 end tell
 
 set inputAppleScriptPosixPath to POSIX path of (currentDir & "ModifyOptionCmdKeys.applescript")

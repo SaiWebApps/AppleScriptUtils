@@ -3,7 +3,7 @@
 ## Table Of Contents
 
 * [SwapOptionCmdKeys](SwapOptionCmdKeys/README.md)
-* [OpenBraveIncognito](OpenBraveIncognito/README.md)
+* [OpenBrowser](OpenBrowser/README.md)
 
 ## How to make "*.applescript" files into executables 
 1. Open the **Script Editor** Mac OS application.

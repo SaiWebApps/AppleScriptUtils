@@ -1,4 +1,4 @@
-# OpenBraveIncognito
+# OpenBrowser
 
 ## Value Proposition
 Open a new browser window in some desired format/configuration.
